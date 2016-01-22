@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/yheng/nearbyTweetReactive/client/app'
+let g:netrw_dirhist_2='/home/yheng/nearbyTweetReactive/client'
+let g:netrw_dirhist_3='/home/yheng/nearbyTweetReactive'
+let g:netrw_dirhist_4='/home/yheng/nearbyTweetReactive/server/config'
+let g:netrw_dirhist_5='/home/yheng/nearbyTweetReactive/server/config/environment'
+let g:netrw_dirhist_6='/home/yheng/nearbyTweetReactive'
